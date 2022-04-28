@@ -17,7 +17,7 @@ import static org.junit.Assert.assertThat;
 
 public class InvocationHandlersTest {
 
-    public static final String BUNDLE_FILE_NAME = "oak-core-1.7.8.jar";
+    public static final String BUNDLE_FILE_NAME = "oak-core-1.42.0.jar";
 
     public static final String BUNDLE_RELATIVE_PATH = "target/test-classes/" + BUNDLE_FILE_NAME;
 
